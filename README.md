@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**arumugarajm/arumugarajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](Images/RAJ.jpg)
+### Hi there 👋 I am ARUMUGARAJ.M !
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+### About me:
+- 🔭 I’m currently working on Deep learning 
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🤔 I’m looking for help to learn more about deep learning, matlab programs
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: arumugraj.m@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Sometimes, I don't know what I'm doing. Sometimes, I don't know what I have to do.
+
+### Connect with me:
+[<img width="22px" src="Images/YouTube-logo.png" >][youtube]
+[<img width="22px" src="Images/1260673.png" >][facebook]
+
+<br />
+
+
+</details>
+
+[youtube]: https://www.youtube.com/channel/UC3DtesIUQKZpZOtFJ5Ftdng
+[facebook]: https://www.facebook.com/arumuga.raj.52
+
