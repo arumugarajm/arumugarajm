@@ -22,10 +22,19 @@
 
 ### Languages and Tools:
 
-
+Update soon.......
 
 
 <br />
+
+
+
+### Education details:
+Update soon........
+
+
+### Work experience:
+Update soon.......
 
 
 </details>
