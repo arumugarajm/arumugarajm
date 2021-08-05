@@ -20,6 +20,7 @@
 [<img width="22px" src="Images/linkedin.png" >][li]
 [<img width="30px" src="Images/insta.jfif" >][instagram]
 [<img width="30px" src="Images/git.png" >][git]
+[<img width="30px" src="Images/logo_meet.png" >][gmeet]
 
 <br />
 
@@ -103,5 +104,6 @@ Phone: +91 - 8838368879 <br />
 [li]: https://www.linkedin.com/in/arumugaraj-m-95b92b38/
 [instagram]: https://www.instagram.com/arumuga.raj.52/
 [git]: https://github.com/arumugarajm
+[gmeet]: https://meet.google.com/tya-vhbz-wcq
 
 
