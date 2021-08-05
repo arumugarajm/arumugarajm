@@ -46,7 +46,7 @@
 - Temporary Faculty; Department of Electrical and Electronics Engineering, National Institute of Technology- Tiruchirappalli, Tamil Nadu, India; Aug 2018 – Dec 2019
 
 ### Subjects Taught:
-#### Instructor for following subjects/ lab/ seminar of B.Tech./M.Tech.:
+#### Instructor for following subjects/ lab of B.Tech./M.Tech.:
 - Subjects:Circuit Theory; Electric Power Utilization; Digital Signal Processing; Advanced Digital Signal Processing
 - Laboratory handled:Power Systems Lab; DC Machines and transformer Lab; Synchronous and Induction Machines Lab; Integrated Circuits Laboratory;
 
