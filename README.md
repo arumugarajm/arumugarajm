@@ -14,7 +14,7 @@
 - ⚡ Fun fact: Sometimes, I don't know what I'm doing. Sometimes, I don't know what I have to do.
 
 ### Connect with me:
-[<img width="22px" src="Images/YouTube-logo.png" >][youtube]
+[<img width="30px" src="Images/YouTube-logo.png" >][youtube]
 [<img width="22px" src="Images/1260673.png" >][facebook]
 
 <br />
