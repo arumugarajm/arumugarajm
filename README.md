@@ -16,6 +16,10 @@
 ### Connect with me:
 [<img width="30px" src="Images/YouTube-logo.png" >][youtube]
 [<img width="22px" src="Images/1260673.png" >][facebook]
+[<img width="30px" src="Images/logo.png" >][twitter]
+[<img width="22px" src="Images/linkedin.png" >][li]
+[<img width="30px" src="Images/insta.jfif" >][instagram]
+[<img width="30px" src="Images/git.png" >][git]
 
 <br />
 
@@ -37,13 +41,13 @@
 - B.Tech (in Electrical and Electronics Engg. from Government College of Engineering, Bargur, TamilNadu - 2007-2011)
 - M.Tech. (in Process Control and Instrumentation from NIT Trichy, TamilNadu - 2011-2013)
 
+### Work experience:
+- Temporary Faculty; Department of Electrical and Electronics Engineering, National Institute of Technology- Tiruchirappalli, Tamil Nadu, India; Aug 2018 – Dec 2019
+
 ### Subjects Taught:
 #### Instructor for following subjects/ lab/ seminar of B.Tech./M.Tech.:
 - Subjects:Circuit Theory; Electric Power Utilization; Digital Signal Processing; Advanced Digital Signal Processing
 - Laboratory handled:Power Systems Lab; DC Machines and transformer Lab; Synchronous and Induction Machines Lab; Integrated Circuits Laboratory;
-
-### Work experience:
-- Temporary Faculty; Department of Electrical and Electronics Engineering, National Institute of Technology- Tiruchirappalli, Tamil Nadu, India; Aug 2018 – Dec 2019
 
 ### Awards and Grands:
 - AICTE – GATE scholarship during M.Tech
@@ -95,5 +99,9 @@ Phone: +91 - 8838368879 <br />
 [anaconda]: https://www.anaconda.com/products/individual
 [MCX]: http://mcx.space/wiki/index.cgi?Learn#mmc
 [comsol]: https://www.comsol.co.in/product-download/5.4/windows
+[twitter]: https://twitter.com/Arumuga76587827?s=08
+[li]: https://www.linkedin.com/in/arumugaraj-m-95b92b38/
+[instagram]: https://www.instagram.com/arumuga.raj.52/
+[git]: https://github.com/arumugarajm
 
 
