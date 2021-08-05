@@ -27,14 +27,56 @@ Update soon.......
 
 <br />
 
-
-
 ### Education details:
-Update soon........
+- B.Tech (in Electrical and Electronics Engg. from Government College of Engineering, Bargur, TamilNadu - 2007-2011)
+- M.Tech. (in Process Control and Instrumentation from NIT Trichy, TamilNadu - 2011-2013)
 
+### Subjects Taught:
+#### Instructor for following subjects/ lab/ seminar of B.Tech./M.Tech.:
+- Subjects:Circuit Theory; Electric Power Utilization; Digital Signal Processing; Advanced Digital Signal Processing
+- Laboratory handled:Power Systems Lab; DC Machines and transformer Lab; Synchronous and Induction Machines Lab; Integrated Circuits Laboratory;
 
 ### Work experience:
-Update soon.......
+- Temporary Faculty; Department of Electrical and Electronics Engineering, National Institute of Technology- Tiruchirappalli, Tamil Nadu, India; Aug 2018 – Dec 2019
+
+### Awards and Grands:
+- AICTE – GATE scholarship during M.Tech
+
+### Achievements and Extra Curricular Activities:
+- GATE: Qualified in 2011, 2013, 2016, 2017, 2019
+- Hospitality core team member of ‘20th National Power System Conference (NPSC-2018)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
+- Hospitality core team member of ‘09th National Power Electronics Conference (NPEC-2019)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
+
+### Research Interests:
+#### IMAGING PHYSICS
+1. Photoacoustic Tomography 
+2. Computed Tomography
+3. Magnetic Resonance Imaging
+
+#### INVERSE PROBLEMS
+1. Image Reconstruction
+2. Deep Learning (Post processing)
+
+#### IMAGE ANALYSIS
+1. Image Restoration
+2. Image Segmentation
+3. Image Registration
+
+### Contact Address:
+11/145, Sri Mutharammal Puram,<br />
+Vallanadu (Post),<br />
+Srivaikundam (Taluk),<br />
+Tuticorin (District),<br />
+TamilNadu (State),<br />
+India (Country),<br />
+Pin-628252.<br />
+Email: arumugaraj.m@gmail.com, arumugarajm@iisc.ac.in <br />
+Phone: +91 - 8838368879 <br />
+
+
+
+
+
 
 
 </details>
