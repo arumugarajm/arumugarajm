@@ -54,7 +54,7 @@
 - AICTE – GATE scholarship during M.Tech
 
 ### Achievements and Extra Curricular Activities:
-- GATE: Qualified in 2011, 2013, 2016, 2017, 2019
+- GATE: Qualified in 2011, 2013, 2015, 2018, 2019
 - Hospitality core team member of ‘20th National Power System Conference (NPSC-2018)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
 - Hospitality core team member of ‘09th National Power Electronics Conference (NPEC-2019)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
 
