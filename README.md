@@ -22,7 +22,13 @@
 
 ### Languages and Tools:
 
-Update soon.......
+[<img width="70px" src="Images/mathlab_logo.png" >][matlab]
+[<img width="70px" src="Images/k-wave_banner.png" >][kwave]
+[<img width="70px" src="Images/nirfast_5.png" >][nirfast]
+[<img width="70px" src="Images/Anaconda_Logo.png" >][anaconda]
+[<img width="100px" src="Images/mcx18_banner.png" >][MCX]
+[<img width="90px" src="Images/Comsol-Multiphysics-Free-Download.jpg" >][comsol]
+
 
 
 <br />
@@ -83,4 +89,11 @@ Phone: +91 - 8838368879 <br />
 
 [youtube]: https://www.youtube.com/channel/UC3DtesIUQKZpZOtFJ5Ftdng
 [facebook]: https://www.facebook.com/arumuga.raj.52
+[kwave]: http://www.k-wave.org/
+[nirfast]: https://milab.host.dartmouth.edu/nirfast/
+[matlab]: https://www.mathworks.com/products/matlab.html
+[anaconda]: https://www.anaconda.com/products/individual
+[MCX]: http://mcx.space/wiki/index.cgi?Learn#mmc
+[comsol]: https://www.comsol.co.in/product-download/5.4/windows
+
 
