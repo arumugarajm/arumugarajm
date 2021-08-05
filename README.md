@@ -5,9 +5,9 @@
 ### About me:
 - 🔭 I’m currently working on Deep learning 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other repository creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- 🤔 I’m looking for help to learn more about deep learning, matlab programs
+- 🤔 I’m looking for help to learn more about deep learning programs
 - 💬 Ask me about ...
 - 📫 How to reach me: arumugraj.m@gmail.com
 - 😄 Pronouns: He/Him
