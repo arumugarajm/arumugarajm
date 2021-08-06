@@ -3,15 +3,14 @@
 ### Hi there 👋 I am ARUMUGARAJ.M !
 
 ### About me:
-- 🔭 I’m currently working on Deep learning 
-- 🌱 I’m currently learning everything 🤣
+- 🔭 Currently I’m working on Deep learning 
+- 🌱 Currently I’m learning everything 🤣
 - 👯 I’m looking to collaborate with other repository creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help to learn more about deep learning programs
 - 💬 Ask me about ...
 - 📫 How to reach me: arumugraj.m@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Sometimes, I don't know what I'm doing. Sometimes, I don't know what I have to do.
+- ⚡ Fun fact about me: Sometimes, I don't know what I'm doing. Sometimes, I don't know what I have to do.
 
 ### Connect with me:
 [<img width="30px" src="Images/YouTube-logo.png" >][youtube]
