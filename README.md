@@ -74,13 +74,13 @@
 3. Image Registration
 
 ### Contact Address:
-11/145, Sri Mutharammal Puram,<br />
-Vallanadu (Post),<br />
-Srivaikundam (Taluk),<br />
-Tuticorin (District),<br />
-TamilNadu (State),<br />
+Block A,<br />
+Room number T022,<br />
+C.V.Raman Road, IISc,<br />
+Bengaluru,<br />
+Karnataka (State),<br />
 India (Country),<br />
-Pin-628252.<br />
+Pin-560012.<br />
 Email: arumugaraj.m@gmail.com, arumugarajm@iisc.ac.in <br />
 Phone: +91 - 8838368879 <br />
 
