@@ -1,6 +1,6 @@
 
 ![](Images/RAJ.jpg)
-### Hi there 👋 I am ARUMUGARAJ.M ! வணக்கம், நான் ஆறுமுகராஜ் !
+### வணக்கம், நான் ஆறுமுகராஜ் !   Hi there 👋 I am ARUMUGARAJ.M ! 
 
 ### About me:
 - 🔭 Currently I’m working on Deep learning 
