@@ -56,6 +56,14 @@
 - GATE: Qualified in 2011, 2013, 2015, 2018, 2019
 - Hospitality core team member of ‘20th National Power System Conference (NPSC-2018)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
 - Hospitality core team member of ‘09th National Power Electronics Conference (NPEC-2019)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
+- A paper on A VEHICLE’S SIXTH SENSE was presented at Kumara guru College of Technology, Coimbatore.
+- A paper on POWER QUALITY AND CONTROL was presented in ELECTRICUS’X-2010 at Infant Jesus College of Engineering, Tuticorin.
+- Actively participated CIRCUIT DEBUGGING event in ELECTRICUS’X-2010 at Infant Jesus College of Engineering, Tuticorin.
+- A paper on SMART SENSOR was presented in HESPEROS’10 at Government College of engineering, Bargur.
+- Active member of N.S.S in GCE Bargur and participated in the SEVEN DAY special camping program at EMAKKALNATTHAM.
+- Actively participated various games (Volley ball, Chess, 5000m Road Race) in intramural sports meet for the year of 2010-11 conducted by GCE, Bargur.
+- Active member of software committee in National Level Technical Symposium PHANTASM'09 conducted by SEEE on 16th & 17th September 2009.
+- அரசினர் பொறியியற் கல்லூரியில் நடைபெற்ற விழாவில் பல்லூடகப் போட்டியில் பங்கு கொண்டுள்ளேன்.
 
 ### Research Interests:
 #### IMAGING PHYSICS
