@@ -63,7 +63,7 @@
 - Active member of N.S.S in GCE Bargur and participated in the SEVEN DAY special camping program at EMAKKALNATTHAM.
 - Actively participated various games (Volley ball, Chess, 5000m Road Race) in intramural sports meet for the year of 2010-11 conducted by GCE, Bargur.
 - Active member of software committee in National Level Technical Symposium PHANTASM'09 conducted by SEEE on 16th & 17th September 2009.
-- அரசினர் பொறியியற் கல்லூரியில் நடைபெற்ற கலைச்சாரல்'11 விழாவில் பல்லூடகப் போட்டியில் பங்கு கொண்டுள்ளேன்.
+- அரசினர் பொறியியற் கல்லூரி பர்கூரில் நடைபெற்ற கலைச்சாரல்'11 விழாவில் பல்லூடகப் போட்டியில் பங்கு கொண்டுள்ளேன்.
 
 ### Research Interests:
 #### IMAGING PHYSICS
