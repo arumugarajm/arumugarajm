@@ -42,7 +42,7 @@
 [<img width="70px" src="Images/tecplot.png" >][tecplot]
 
 
-<br />
+
 ### Education details:
 - B.E (in Electrical and Electronics Engg. from Government College of Engineering, Bargur, TamilNadu - 2007-2011)
 - M.Tech. (in Process Control and Instrumentation from NIT Trichy, TamilNadu - 2011-2013)
