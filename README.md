@@ -37,6 +37,12 @@
 
 <br />
 
+### Visualization Tools
+[<img width="70px" src="Images/paraview.png" >][paraview]
+[<img width="70px" src="Images/tecplot.png" >][tecplot]
+
+
+<br />
 ### Education details:
 - B.E (in Electrical and Electronics Engg. from Government College of Engineering, Bargur, TamilNadu - 2007-2011)
 - M.Tech. (in Process Control and Instrumentation from NIT Trichy, TamilNadu - 2011-2013)
@@ -113,5 +119,7 @@ Phone: +91 - 8838368879 <br />
 [instagram]: https://www.instagram.com/arumuga.raj.52/
 [git]: https://github.com/arumugarajm
 [gmeet]: https://meet.google.com/tya-vhbz-wcq
+[tecplot]: https://www.tecplot.com/
+[paraview]: https://www.paraview.org/
 
 
