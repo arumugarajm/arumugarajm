@@ -37,7 +37,7 @@
 
 <br />
 
-### Visualization Tools
+### Visualization Tools:
 [<img width="70px" src="Images/paraview.png" >][paraview]
 [<img width="70px" src="Images/tecplot.png" >][tecplot]
 
