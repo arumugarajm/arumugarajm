@@ -6,7 +6,7 @@
 - 🔭 Currently I’m working on Deep learning 
 - 🌱 Currently I’m learning everything 🤣
 - 👯 I’m looking to collaborate with other repository creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help to learn more about deep learning programs
 - 💬 Ask me about ...
 - 📫 How to reach me: arumugraj.m@gmail.com
