@@ -41,6 +41,9 @@
 [<img width="70px" src="Images/paraview.png" >][paraview]
 [<img width="70px" src="Images/tecplot.png" >][tecplot]
 [<img width="70px" src="Images/volumeviewer.png" >][volumeViewer]
+[<img width="70px" src="Images/3DSlicer.png" >][3DSlicer]
+[<img width="70px" src="Images/NIRFASTSlicer.png" >][NIRFASTSlicer]
+
 
 
 
@@ -123,5 +126,6 @@ Phone: +91 - 8838368879 <br />
 [tecplot]: https://www.tecplot.com/
 [paraview]: https://www.paraview.org/
 [volumeviewer]: https://www.mathworks.com/matlabcentral/fileexchange/45050-volumeviewer
-
+[3DSlicer]: https://www.slicer.org/
+[NIRFASTSlicer]: https://milab.host.dartmouth.edu/nirfast/
 
