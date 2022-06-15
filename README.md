@@ -75,7 +75,7 @@
 - Active member of software committee in National Level Technical Symposium PHANTASM'09 conducted by SEEE on 16th & 17th September 2009.
 - அரசினர் பொறியியற் கல்லூரி பர்கூரில் நடைபெற்ற கலைச்சாரல்'11 விழாவில் பல்லூடகப் போட்டியில் பங்கு கொண்டுள்ளேன்.
 - Delivered a talk at "The International Symposium on Instrumentation (ISI-03) & National Symposium on Instrumentation (NSI-43) 7th - 9th October 2021" in "Electro-Optics" track about "optical fluece compensation using deep learning method".
-- Presented an abstract in a workshop titled "The role of AI in transforming healthcare" held from 11-12 June 2022 at Goa. The title of the abstract was "Deep learning methods hold promise for light fluence compensation in optoacoustic imaging".
+- Presented an abstract in a workshop titled "The role of AI in transforming healthcare" held from 11-12 June 2022 at Goa, India Jointly organised by Translational Health Science Technology Institute, University of Oxford and Centre for Integrative Biology and Systems medicine, IIT Madras. The title of the abstract was "Deep learning methods hold promise for light fluence compensation in optoacoustic imaging".
 
 
 ### Research Interests:
