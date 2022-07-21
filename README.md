@@ -69,6 +69,40 @@ non-homogeneous background medium.
 • Contribution: We introduced 3D optical fluence compensation using
 deep learning model and analyzed the results for 2D.
 
+-Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images and Deep CNNs
+• Aim: Comparing different algorithms performance for automatically
+classifying different lung infections like bacterial pneumonia, viral
+pneumonia, COVID-19 or healthy using different pre-trained
+convolution neural network models.
+• Contribution: Evaluated the DL model performance with ResNet50,
+ResNet101, ResNet152, InceptionV3 and Inception-V2; based on
+transfer learning using ImageNet pretrained models.
+
+-Sparse data recovery for k-space MRI data using deep learning method
+• Aim: Recover full k-space data by using data driven model.
+• Contribution: U-Net model was used to reconstruct the MR images
+with high quality.
+
+-Scattered data interpolation by using deep learning method
+• Aim: Find out missing k-space data points by using interpolation
+technique in k-space domain.
+• Contribution: Implement U-Net architecture for MRI reconstruction
+and understood different types of interpolation techniques.
+
+-FREQUENCY RESPONSE ANALYSIS OF HYBRID PZT CANTILEVER BEAM
+• Aim: Frequency response analysis of hybrid aluminium beam with piezoelectric actuators was performed using finite element method. 
+• Contribution: The finite element model was implemented in MATLAB software.
+
+VIBRATION CONTROL OF BEAM BY USING DAMPING MATERIAL
+• Aim: The purpose behind this study is to predict damping effects using method of free layer and constrained layer damping. This study presents a passive vibration control technique applied to a beam structure.
+• Contribution: Passive vibration control model was implemented in MATLAB software.
+
+VOLTAGE SAG MITTIGATION BY USING ‘DVR’
+•Aim: To design a plant setup which is practically find out the voltage sag and also give the protection to consumer device from the voltage sag problem. The Dynamic Voltage Restorer (DVR) is fast, flexible and efficient solution to voltage sag problem.
+
+
+
+
 ### Awards and Grands:
 - AICTE – GATE scholarship during M.Tech
 
