@@ -61,7 +61,7 @@
 
 
 ### Projects
-**- Deep learning methods hold promise for light fluence compensation in three-dimensional optoacoustic imaging**
+**Deep learning methods hold promise for light fluence compensation in three-dimensional optoacoustic imaging**
 <br />
 • Aim: Deep learning models (U-Net, FD U-Net, Y-Net, FD Y-Net,
 Deep Res-U-Net, GAN) were compared and investigated to enable
@@ -71,35 +71,46 @@ non-homogeneous background medium.
 • Contribution: We introduced 3D optical fluence compensation using
 deep learning model and analyzed the results for 2D.
 
-- Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images and Deep CNNs
+**Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images and Deep CNNs**
 • Aim: Comparing different algorithms performance for automatically
 classifying different lung infections like bacterial pneumonia, viral
 pneumonia, COVID-19 or healthy using different pre-trained
 convolution neural network models.
+<br />
 • Contribution: Evaluated the DL model performance with ResNet50,
 ResNet101, ResNet152, InceptionV3 and Inception-V2; based on
 transfer learning using ImageNet pretrained models.
+<br />
 
-- Sparse data recovery for k-space MRI data using deep learning method
+**Sparse data recovery for k-space MRI data using deep learning method**
 • Aim: Recover full k-space data by using data driven model.
+<br />
 • Contribution: U-Net model was used to reconstruct the MR images
 with high quality.
+<br />
 
-- Scattered data interpolation by using deep learning method
+**Scattered data interpolation by using deep learning method**
 • Aim: Find out missing k-space data points by using interpolation
 technique in k-space domain.
+<br />
 • Contribution: Implement U-Net architecture for MRI reconstruction
 and understood different types of interpolation techniques.
+<br />
 
-- FREQUENCY RESPONSE ANALYSIS OF HYBRID PZT CANTILEVER BEAM
+**FREQUENCY RESPONSE ANALYSIS OF HYBRID PZT CANTILEVER BEAM**
 • Aim: Frequency response analysis of hybrid aluminium beam with piezoelectric actuators was performed using finite element method. 
+<br />
 • Contribution: The finite element model was implemented in MATLAB software.
+<br />
 
-- VIBRATION CONTROL OF BEAM BY USING DAMPING MATERIAL
+**VIBRATION CONTROL OF BEAM BY USING DAMPING MATERIAL**
 • Aim: The purpose behind this study is to predict damping effects using method of free layer and constrained layer damping. This study presents a passive vibration control technique applied to a beam structure.
+<br />
 • Contribution: Passive vibration control model was implemented in MATLAB software.
+<br />
 
-- VOLTAGE SAG MITTIGATION BY USING ‘DVR’
+**VOLTAGE SAG MITTIGATION BY USING ‘DVR’**
+<br />
 •Aim: To design a plant setup which is practically find out the voltage sag and also give the protection to consumer device from the voltage sag problem. The Dynamic Voltage Restorer (DVR) is fast, flexible and efficient solution to voltage sag problem.
 
 ### Assist Internship Projects
