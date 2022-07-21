@@ -72,6 +72,7 @@ non-homogeneous background medium.
 deep learning model and analyzed the results for 2D.
 
 **Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images and Deep CNNs**
+<br />
 • Aim: Comparing different algorithms performance for automatically
 classifying different lung infections like bacterial pneumonia, viral
 pneumonia, COVID-19 or healthy using different pre-trained
@@ -83,6 +84,7 @@ transfer learning using ImageNet pretrained models.
 <br />
 
 **Sparse data recovery for k-space MRI data using deep learning method**
+<br />
 • Aim: Recover full k-space data by using data driven model.
 <br />
 • Contribution: U-Net model was used to reconstruct the MR images
@@ -90,6 +92,7 @@ with high quality.
 <br />
 
 **Scattered data interpolation by using deep learning method**
+<br />
 • Aim: Find out missing k-space data points by using interpolation
 technique in k-space domain.
 <br />
@@ -98,12 +101,14 @@ and understood different types of interpolation techniques.
 <br />
 
 **FREQUENCY RESPONSE ANALYSIS OF HYBRID PZT CANTILEVER BEAM**
+<br />
 • Aim: Frequency response analysis of hybrid aluminium beam with piezoelectric actuators was performed using finite element method. 
 <br />
 • Contribution: The finite element model was implemented in MATLAB software.
 <br />
 
 **VIBRATION CONTROL OF BEAM BY USING DAMPING MATERIAL**
+<br />
 • Aim: The purpose behind this study is to predict damping effects using method of free layer and constrained layer damping. This study presents a passive vibration control technique applied to a beam structure.
 <br />
 • Contribution: Passive vibration control model was implemented in MATLAB software.
