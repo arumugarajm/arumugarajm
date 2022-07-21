@@ -62,10 +62,12 @@
 
 ### Projects
 **- Deep learning methods hold promise for light fluence compensation in three-dimensional optoacoustic imaging**
+<br />
 • Aim: Deep learning models (U-Net, FD U-Net, Y-Net, FD Y-Net,
 Deep Res-U-Net, GAN) were compared and investigated to enable
 optical absorption coefficient recovery at a particular wavelength in a
 non-homogeneous background medium.
+<br />
 • Contribution: We introduced 3D optical fluence compensation using
 deep learning model and analyzed the results for 2D.
 
