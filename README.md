@@ -60,7 +60,7 @@
 - Laboratory handled:Power Systems Lab; DC Machines and transformer Lab; Synchronous and Induction Machines Lab; Integrated Circuits Laboratory;
 
 
-### Projects
+### Projects:
 **Deep learning methods hold promise for light fluence compensation in three-dimensional optoacoustic imaging**
 <br />
 • Aim: Deep learning models (U-Net, FD U-Net, Y-Net, FD Y-Net,
@@ -118,7 +118,7 @@ and understood different types of interpolation techniques.
 <br />
 •Aim: To design a plant setup which is practically find out the voltage sag and also give the protection to consumer device from the voltage sag problem. The Dynamic Voltage Restorer (DVR) is fast, flexible and efficient solution to voltage sag problem.
 
-### Assist Internship Projects
+### Assist Internship Projects:
 - Direct PA image reconstruction using CNN
 - A light weight DL model for 3D deconvolution
 - Estimation of oxygen saturation using deep learning approach
