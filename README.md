@@ -62,8 +62,7 @@
 ### Publications:
 - Arumugaraj Madasamy, Vipul Gujrati, Vasilis Ntziachristos, and Jaya Prakash,
 ”Deep learning methods hold promise for light fluence compensation in threedimensional
-optoacoustic imaging,” Journal of Biomedical Optics (In Press)
-2022.
+optoacoustic imaging,” Journal of Biomedical Optics (In Press) 2022.
 
 
 ### Projects:
