@@ -137,6 +137,7 @@ and understood different types of interpolation techniques.
 
 ### Achievements and Extra Curricular Activities:
 - GATE: Qualified in 2011, 2013, 2015, 2018, 2019
+-  Actively participated in the Faculty Development Programme on "Artificial Intelligence using Deep Learning & Machine Learning" organized by the Department of Electrical and Electronics Engineering, National Institute of Technology, Tiruchirappalli in collaboration with Finland Labs between 26-30 November 2018.
 - Hospitality core team member of ‘20th National Power System Conference (NPSC-2018)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
 - Hospitality core team member of ‘09th National Power Electronics Conference (NPEC-2019)’ organized by National Institute of Technology- Tiruchirappalli, Tamil Nadu, India
 - A paper on A VEHICLE’S SIXTH SENSE was presented at Kumara guru College of Technology, Coimbatore.
