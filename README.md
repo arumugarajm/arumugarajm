@@ -60,9 +60,7 @@
 - Laboratory handled:Power Systems Lab; DC Machines and transformer Lab; Synchronous and Induction Machines Lab; Integrated Circuits Laboratory;
 
 ### Publications:
-- **Arumugaraj Madasamy**, Vipul Gujrati, Vasilis Ntziachristos, and Jaya Prakash,
-”Deep learning methods hold promise for light fluence compensation in threedimensional
-optoacoustic imaging,” Journal of Biomedical Optics (In Press) 2022.
+- **Arumugaraj Madasamy**, Vipul Gujrati, Vasilis Ntziachristos, Jaya Prakash, "Deep learning methods hold promise for light fluence compensation in three-dimensional optoacoustic imaging," J. Biomed. Opt. 27(10), 106004 (2022), doi: 10.1117/1.JBO.27.10.106004.
 
 
 ### Projects:
